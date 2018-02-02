@@ -1,0 +1,124 @@
+
+  .swiper-container {
+    width: 100%;
+    min-height: 400px;
+    position: relative;
+  }
+  
+
+  @media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1025px) 
+and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio: 2) {
+  .swiper-container {
+    width: 100%;
+    min-height: 290px;
+    position: relative;
+}
+
+.swiper-pagination-bullet {
+  width: 0px;
+  height: 0px;
+  text-align: center;
+  line-height: 0px;
+  font-size: 0px;
+  color:#000;
+  opacity: 1;
+  background: rgba(255, 212, 84, 0.5);
+}
+}
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 767px) {
+  .swiper-container {
+    width: 100%;
+    min-height: 150px;
+    position: relative;
+  }
+
+  
+  .swiper-pagination-bullet {
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    line-height: 0px;
+    font-size: 0px;
+    color:#000;
+    opacity: 1;
+    background: rgba(255, 212, 84, 0.5);
+  }
+}
+
+  @media only screen 
+  and (min-device-width : 0px) 
+  and (max-device-width : 374px) {
+    .swiper-container {
+      width: 100%;
+      min-height: 200px;
+      position: relative;
+    }
+
+    .swiper-pagination-bullet {
+      width: 0px;
+      height: 0px;
+      text-align: center;
+      line-height: 0px;
+      font-size: 0px;
+      color:#000;
+      opacity: 1;
+      background: rgba(255, 212, 84, 0.5);
+    }
+}
+
+
+
+
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: rgb(255, 255, 255);
+    background-position: center;
+    background-size: cover;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .swiper-pagination-bullet {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    color:#000;
+    opacity: 1;
+    background: rgba(255, 212, 84, 0.5);
+  }
+
+  @media only screen and (min-device-width: 768px) {
+
+}
+  .swiper-pagination-bullet-active {
+    color:#fff;
+    background: #FFCC33;
+  }
+
+  .header-swipers .swiper-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
