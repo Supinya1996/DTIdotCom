@@ -12,7 +12,7 @@
     <div class="row">
         <div class="col dontwantpadding">
                 
-            <div class="jumbotron parallax-window" data-parallax="scroll" data-image-src="https://c1.staticflickr.com/9/8723/17309474945_76e2b40be2_b.jpg">
+            <div class="jumbotron parallax-window" data-parallax="scroll" data-image-src="/img/bg.jpg">
 
                 <nav class="navbar navbar-light bg-dark">
                         <div class="nav nav-pills" id="nav-tab" role="tablist">
@@ -27,8 +27,8 @@
                                     <div class="tab-pane fade show active" id="nav-ap2p" role="tabpanel" aria-labelledby="nav-ap2p-tab">
 
                                             <div id="plan-title">
-                                                    <h1 class="display-6 font-weight-bold wow fadeIn animated" >ประกันภัยรถยนต์ ประเภท 2+</h1>
-                                                    <ul class="fa-ul wow fadeIn animated" data-wow-delay="0.5s">
+                                                    <h1 class="display-6 font-weight-bold " >ประกันภัยรถยนต์ ประเภท 2+</h1>
+                                                    <ul class="fa-ul " >
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>คุ้มครองรถยนต์กรณี สูญหาย ไฟไหม้</li>
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>จ่ายค่าซ่อมรถจากอุบัติเหตุที่เกิดจากคู่กรณีที่เป็นรถยนต์ด้วยกัน 100,000 บาท</li>
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>ไม่ต้องตรวจสภาพรถ</li>
@@ -38,7 +38,7 @@
                                                 <hr class="my-4">
 
                                                 <div class="plan-table">
-                                                        <table class="table wow fadeIn animated" data-wow-delay="0.5s">
+                                                        <table  class="table " >
                                                             <thead class="thead-dark table-bordered text-center">
                                                                 <tr>
                                                                     <th>ความคุ้มครอง</th>
@@ -120,8 +120,8 @@
                                     <div class="tab-pane fade" id="nav-ap3p" role="tabpanel" aria-labelledby="nav-ap3p-tab">
                                         
                                             <div id="plan-title">
-                                                    <h1 class="display-6 font-weight-bold wow fadeIn animated" >ประกันภัยรถยนต์ ประเภท 3+</h1>
-                                                    <ul class="fa-ul wow fadeIn animated" data-wow-delay="0.5s">
+                                                    <h1 class="display-6 font-weight-bold " >ประกันภัยรถยนต์ ประเภท 3+</h1>
+                                                    <ul class="fa-ul " >
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>จ่ายค่าซ่อมรถจากอุบัติเหตุที่เกิดจากคู่กรณีที่เป็นรถยนต์ด้วยกัน 100,000 บาท</li>
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>ไม่ต้องตรวจสภาพรถ</li>
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>ไม่มีความเสียหายส่วนแรก</li>
@@ -130,7 +130,7 @@
                                                 <hr class="my-4">
 
                                                 <div class="plan-table">
-                                                        <table class="table wow fadeIn animated" data-wow-delay="0.5s">
+                                                        <table  class="table " >
                                                             <thead class="thead-dark table-bordered text-center">
                                                                 <tr>
                                                                     <th>ความคุ้มครอง</th>
@@ -212,8 +212,8 @@
                                     <div class="tab-pane fade" id="nav-ap3" role="tabpanel" aria-labelledby="nav-ap3-tab">
 
                                             <div id="plan-title">
-                                                    <h1 class="display-6 font-weight-bold wow fadeIn animated" >ประกันภัยรถยนต์ ประเภท 3</h1>
-                                                    <ul class="fa-ul wow fadeIn animated" data-wow-delay="0.5s">
+                                                    <h1 class="display-6 font-weight-bold " >ประกันภัยรถยนต์ ประเภท 3</h1>
+                                                    <ul class="fa-ul " >
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>ไม่จำกัดอายุรถในการรับประกันภัย</li>
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>ไม่ต้องตรวจสภาพรถ</li>
                                                             <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>ไม่มีความเสียหายส่วนแรก</li>
@@ -222,7 +222,7 @@
                                                 <hr class="my-4">
 
                                             <div class="plan-table">
-                                                    <table  class="table wow fadeIn animated" data-wow-delay="0.5s">
+                                                    <table  class="table">
                                                         <thead class="thead-dark table-bordered text-center">
                                                             <tr>
                                                                 <th>ความคุ้มครอง</th>

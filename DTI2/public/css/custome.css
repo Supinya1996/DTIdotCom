@@ -26,6 +26,47 @@
   }
 
 }
+
+.cardsize2 {
+  width:100%;  height: 150px; 
+}
+
+.cardfont2 {
+  padding-top: 30px; padding-bottom: 30px; 
+}
+
+@media only screen and (min-device-width: 768px) {
+
+  .cardsize2 {
+    width:100%;  height: 300px; 
+  }
+
+  .cardfont2 {
+    padding-top: 90px; padding-bottom: 90px; 
+  }
+
+}
+
+.cardsize3 {
+  width:100%;  height: 150px; 
+}
+
+.cardfont3 {
+  padding-top: 9px; padding-bottom: 35px; 
+}
+
+@media only screen and (min-device-width: 768px) {
+
+  .cardsize3 {
+    width:100%;  height: 300px; 
+  }
+
+  .cardfont3 {
+    padding-top: 90px; padding-bottom: 90px; 
+  }
+
+}
+
   
   .jumbotron{margin-bottom: 0;}
 
@@ -45,3 +86,5 @@
 .number {
   padding-right: 5px;
 }
+
+.blu_b {color: #063868; font-weight: bold; }

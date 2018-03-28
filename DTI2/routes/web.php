@@ -15,15 +15,42 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/pa', function () {
-    return view('pa');
+Route::get('/accident', function () {
+    return view('insuacc');
 });
 
-Route::get('/auto', function () {
+Route::get('/drive', function () {
+    return view('insuauto');
+});
+
+Route::get('/act', function () {
+    return view('insuprb');
+});
+
+Route::get('/health', function () {
+    return view('insuhealth');
+});
+
+Route::get('/travel', function () {
+    return view('insutravel');
+});
+
+Route::get('/fire', function () {
+    return view('insufire');
+});
+
+Route::get('/golf', function () {
+    return view('insugolf');
+});
+
+Route::get('/bankkok_Fire', function () {
+    return view('bangkokInsu_Rakban');
+});
+
+Route::get('/sriaryutthaya_drive', function () {
     return view('auto');
 });
 
-
-Route::get('/cancer', function () {
-    return view('cancer');
+Route::get('/viriya_accident', function () {
+    return view('viriyaInsu_acc');
 });

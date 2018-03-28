@@ -19,8 +19,6 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/all.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>    
     <script src="js/swiper.min.js"></script>
-    <script src="js/paraxify.min.js"></script>
-    <script src="js/modernizr-custom.js"></script>
     <script src="js/wow.min.js"></script>
     <script src="js/parallax.min.js"></script>
     
@@ -66,10 +64,6 @@
             })
 
             var wow =new WOW().init();
-
-            if(!Modernizr.touchevents){
-             var myParaxify = new paraxify('.paraxify');
-            }
 
 
             </script>

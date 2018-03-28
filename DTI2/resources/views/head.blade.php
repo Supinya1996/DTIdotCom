@@ -2,10 +2,12 @@
 
 
 <header id="header-wrap">
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #FFCC33;" id="mainNav">
+    <nav class="navbar  fixed-top navbar-expand-lg navbar-light" style="background-color: #FFCC33;" id="mainNav">
         <div class="container">
           <a class="navbar-brand js-scroll-trigger" href="/">
-            <i class="fa fa-fw fa-home" aria-hidden="true "></i>Home</a>
+            <img src="/img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+            Dee Tuk Insurance
+          </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-haspopup="true" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -18,7 +20,8 @@
           </div>
         </div>
       </nav>
-  
+
+      <div style ="padding-top: 50px;"></div>
 
 </header>
 
