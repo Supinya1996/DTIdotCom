@@ -54,7 +54,7 @@
         </div>
   
         <div class="col-sm dontwantpadding wow zoomIn animated" data-wow-delay="0.5s">
-          <a class="card cardsize3" style="text-decoration:none;" href="/sriaryutthaya_drive">
+          <a class="card cardsize3" style="text-decoration:none;" href="#">
                   <div class="card-body rounded-0" style=" background:url(http://www.sudkum.com/images/promotion/promotion20150518135608.jpg) no-repeat center center ;
                             background-size: cover;">
               <h1 class="card-title boader cardfont3">
