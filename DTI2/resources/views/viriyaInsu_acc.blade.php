@@ -2,7 +2,6 @@
 @section('title' , 'ประกันอุบัติเหตุ')
 
 @extends('head')
-@extends('header')
 
 @extends('footer')
 

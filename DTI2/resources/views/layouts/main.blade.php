@@ -21,13 +21,6 @@
     <script src="js/swiper.min.js"></script>
     <script src="js/wow.min.js"></script>
     <script src="js/parallax.min.js"></script>
-    
-    
-    
-   
-   
-    @section('header')
-    @show
     @section('head')
     @show
 
